@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Espresso First</string>
+    <string name="err_input_value">Toto je chyba</string>
 </resources>
